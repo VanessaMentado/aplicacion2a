@@ -7,10 +7,10 @@
 		
 	<!--versionCode is opcional and Android only-->
 	
-	<name>Aplicacion uno DATOSALUMNOS</name>
+	<name>Aplicacion dos Semana Santa</name>
 	
 	<description>
-	    Aplicacion que muestra los DATOS del alumno
+	    Aplicacion que muestra datos sobre Semana Santa
 	</description>
 	
 	<preference name="phonegap-version" value="3.1.0" />
